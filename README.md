@@ -30,6 +30,13 @@ This list is mostly focused on the UK but stuff from other countries will be add
 - [DEFRA Software Standards](https://github.com/DEFRA/software-development-standards)
 - [DFE Digital Technical Guidance](https://dfe-digital.github.io/technology-guidance/)
 
+- https://github.com/DEFRA/ffc-development-guide
+- https://github.com/DEFRA/ffc-case-studies
+
+- https://github.com/ministryofjustice/development-standards-alpha
+- https://github.com/ministryofjustice/technical-guidance
+- https://github.com/ministryofjustice/security-guidance
+
 ### Security Standards
 - [MOJ Security Guidance](https://ministryofjustice.github.io/security-guidance/#moj-security--guidance)
 - [NCSS Security Architecture Antipatterns](https://www.ncsc.gov.uk/whitepaper/security-architecture-anti-patterns)
